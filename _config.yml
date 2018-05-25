@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+
+defaults:
+  - 
+    scope:
+      path: "README.md"
+    values:
+      permalink: "README.html"
