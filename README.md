@@ -1,6 +1,6 @@
 ## Summary
 
-This repository contents data analysis projects which I've been working on during my studying and exploration in the Data Science field. All the projects are created mostly with Python.
+This repository contents data analysis projects which I've been working on during my studying and exploration in the Data Science field. All the projects are created mostly in Python using Jupyter Notebooks.
 
 Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions about this portfolio:
 * E-mail: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
