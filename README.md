@@ -1,8 +1,10 @@
-## Projects
+## Summary
 
-You can use the [editor on GitHub](https://github.com/atrof/atrof.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contents data analysis projects which I've been working on during my studying and exploration in the Data Science field. All the projects are created mostly with Python.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions about this portfolio:
+* E-mail: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
+* LinkedIn: [My Profile](https://www.linkedin.com/in/artyomtrofimov)
 
 ### Markdown
 
