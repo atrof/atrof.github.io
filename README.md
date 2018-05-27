@@ -7,8 +7,6 @@ This repository contents data analysis projects which I've been working on durin
 ## Projects
 ## In-class activities
 ## Competitions
-## Article
-
 
 ### Markdown
 
