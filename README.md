@@ -4,6 +4,12 @@ This repository contents data analysis projects which I've been working on durin
 * E-mail: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
 * LinkedIn: [Profile](https://www.linkedin.com/in/artyomtrofimov)
 
+## Projects
+## In-class activities
+## Competitions
+## Article
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
