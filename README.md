@@ -21,4 +21,4 @@ This repository contents data analysis projects which I've been working on durin
 
 ## Others
 * **3200tweets** is a simple Python script for grabbing tweets using Twitter API and Tweepy package.
-* **Dask: when Pandas fails** is an intro-like article (in Russian) about Dask.
+* **Dask: when Pandas fails** is an intro article about Dask (in Russian). 
