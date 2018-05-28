@@ -5,11 +5,14 @@ This repository contents data analysis projects which I've been working on durin
 * LinkedIn: [Profile](https://www.linkedin.com/in/artyomtrofimov)
 
 ## Projects
-* Catch me if you can: intruder detection.
-* How good is your Medium article?
+* Analyze an AB-test from the mobile game «Cookie Cats».
+* Risk and Returns: The Sharpe Ratio
+* Exploring the Bitcoin cryptocurrency market
 * The forecasting of an average wage in Russia.
 
 ## Competitions
+* Catch me if you can: intruder detection.
+* How good is your Medium article?
 
 ## Pet Projects
 * **TweetLikeTrump** is a web application which can measure the similarity between yours and Donald Trump's written text. 
