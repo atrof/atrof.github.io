@@ -5,7 +5,10 @@ This repository contents data analysis projects which I've been working on durin
 * LinkedIn: [Profile](https://www.linkedin.com/in/artyomtrofimov)
 
 ## Projects
-## In-class activities
+* Catch me if you can: intruder detection.
+* How good is your Medium article?
+* The forecasting of an average wage in Russia.
+
 ## Competitions
 
 ### Markdown
