@@ -4,7 +4,7 @@ This repository contents data analysis projects which I've been working on durin
 * E-mail: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
 * LinkedIn: [Profile](https://www.linkedin.com/in/artyomtrofimov)
 
-## Projects
+## Data Analysis
 * Analyze an AB-test from the mobile game «Cookie Cats».
 * Risk and Returns: The Sharpe Ratio
 * Exploring the Bitcoin cryptocurrency market
@@ -16,8 +16,8 @@ This repository contents data analysis projects which I've been working on durin
 
 ## Pet Projects
 * **TweetLikeTrump** is a web application which can measure the similarity between yours and Donald Trump's written text. 
-* **AIgift.io** 
-* **LibDS** is something like «data science library». When I became tired of endless saving one more must read book, I decided to organize a well sctructured library. It's just a repo right now but my plan is to launch a dedicated web application.
+* **LibDS** - when I became tired of endless saving one more must read book, I decided to organize a well sctructured data science library. It's just a repo right now but my plan is to launch a dedicated web application.
+* **AIgift** is a web service which can (or not :D ) help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but baught *aigift.io* domain :)
 
 ## Others
 * **3200tweets** is a simple Python script for grabbing tweets using Twitter API and Tweepy package.
