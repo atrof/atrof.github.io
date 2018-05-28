@@ -5,7 +5,7 @@ This repository contents data analysis projects which I've been working on durin
 * LinkedIn: [Profile](https://www.linkedin.com/in/artyomtrofimov)
 
 ## Data Analysis
-* Analyze an AB-test from the mobile game «Cookie Cats».
+* Analyze an AB-test from the Cookie Cats mobile game
 * Risk and Returns: The Sharpe Ratio
 * Exploring the Bitcoin cryptocurrency market
 * The forecasting of an average wage in Russia.
