@@ -11,34 +11,11 @@ This repository contents data analysis projects which I've been working on durin
 
 ## Competitions
 
-### Markdown
+## Pet Projects
+* **TweetLikeTrump** is a web application which can measure the similarity between yours and Donald Trump's written text. 
+* **AIgift.io** 
+* **LibDS** is something like «data science library». When I became tired of endless saving one more must read book, I decided to organize a well sctructured library. It's just a repo right now but my plan is to launch a dedicated web application.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atrof/atrof.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Others
+* **3200tweets** is a simple Python script for grabbing tweets using Twitter API and Tweepy package.
+* **Dask: when Pandas fails** is an intro-like article (in Russian) about Dask.
