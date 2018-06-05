@@ -15,8 +15,8 @@ This repository contents data analysis projects which I've been working on durin
 ## Competitions
 * **Avito Demand Prediction Challenge** (in progress). Kaggle Featured Competition.
 * **Home Credit Deafault Risk** (in progress). Kaggle Featured Competition.
-* **Catch me if you can: Intruder Detection** (244/1163). In-class competition during ML Course Open by [OpenDataScience](http://www.ods.ai).
-* **How good is your Medium article?** (59/398). In-class competition during ML Course Open by [OpenDataScience](http://www.ods.ai).
+* **Catch me if you can: Intruder Detection** (244/1163). In-class competition during ML Course Open by [ODS](http://www.ods.ai).
+* **How good is your Medium article?** (59/398). In-class competition during ML Course Open by [ODS](http://www.ods.ai).
 
 ## Pet Projects
 * **TweetLikeTrump** is a web application which can measure the similarity between yours and Donald Trump's written text. 
