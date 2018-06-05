@@ -13,10 +13,10 @@ This repository contents data analysis projects which I've been working on durin
 * **Exploring the Bitcoin cryptocurrency market** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Exploring%20The%20Bitcoin%20Cryptocurrency%20Market.ipynb)). Exploring the market capitalization of Bitcoin and other cryptocurrencies.
 
 ## Competitions
-* **Avito Demand Prediction Challenge**
-* **Home Credit Deafault Risk**
-* **Catch me if you can: Intruder Detection**
-* **How good is your Medium article?**
+* **Avito Demand Prediction Challenge** (in progress). Kaggle Featured Competition.
+* **Home Credit Deafault Risk** (in progress). Kaggle Featured Competition.
+* **Catch me if you can: Intruder Detection** (244/1163). In-class competition during ML Course Open by [OpenDataScience](http://www.ods.ai).
+* **How good is your Medium article?** (59/398). In-class competition during ML Course Open by [OpenDataScience](http://www.ods.ai).
 
 ## Pet Projects
 * **TweetLikeTrump** is a web application which can measure the similarity between yours and Donald Trump's written text. 
