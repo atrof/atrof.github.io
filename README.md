@@ -3,9 +3,7 @@
 This repository contents data analysis projects which I've been working on during my studying and exploration in the Data Science field. All the projects are created mostly in Python using Jupyter Notebooks. Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions to me: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
 
 ## Data Analysis
-* **Mobile Games AB-testing with Cookie Cats** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/AB-testing%20from%20the%20Cookie%20Cats.ipynb)) 
-
-As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. The target of AB-testing is to decide where to place the gate looking at the impact on player retention.
+* **Mobile Games AB-testing with Cookie Cats** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/AB-testing%20from%20the%20Cookie%20Cats.ipynb)). As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. The target of this project is to decide where to place the gate looking at the impact on player retention.
 * Risk and Returns: The Sharpe Ratio
 * Exploring the Bitcoin cryptocurrency market
 * The forecasting of an average wage in Russia.
