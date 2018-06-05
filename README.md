@@ -6,25 +6,21 @@ This repository contents data analysis projects which I've been working on durin
 
 * **The forecasting of an average wage in Russia** ([nbviewer](#))
 
-* **Mobile Games AB-testing with Cookie Cats** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/AB-testing%20from%20the%20Cookie%20Cats.ipynb))
+* **Mobile Games AB-testing with Cookie Cats** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/AB-testing%20from%20the%20Cookie%20Cats.ipynb)). As players progress through the levels of the game, they will occasionally encounter gates that force them to wait or make an in-app purchase to progress. The target of this project is to decide where to place the gate looking at the impact on player retention.
 
-As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. The target of this project is to decide where to place the gate looking at the impact on player retention.
+* **Risk and Returns: The Sharpe Ratio** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Risk%20%26%20Returns%20with%20the%20Sharpe%20Ratio.ipynb)). Using `pandas` to calculate and compare profitability and risks of different investments using the Sharpe Ratio.
 
-* **Risk and Returns: The Sharpe Ratio** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Risk%20%26%20Returns%20with%20the%20Sharpe%20Ratio.ipynb))
-
-Using `pandas` to calculate and compare profitability and risks of different investments using the Sharpe Ratio.
-
-* **Exploring the Bitcoin cryptocurrency market** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Exploring%20The%20Bitcoin%20Cryptocurrency%20Market.ipynb))
-
-Exploring the market capitalization of Bitcoin and other cryptocurrencies.
+* **Exploring the Bitcoin cryptocurrency market** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Exploring%20The%20Bitcoin%20Cryptocurrency%20Market.ipynb)). Exploring the market capitalization of Bitcoin and other cryptocurrencies.
 
 ## Competitions
-* Catch me if you can: intruder detection.
-* How good is your Medium article?
+* **Avito Demand Prediction Challenge**
+* **Home Credit Deafault Risk**
+* **Catch me if you can: Intruder Detection**
+* **How good is your Medium article?**
 
 ## Pet Projects
 * **TweetLikeTrump** is a web application which can measure the similarity between yours and Donald Trump's written text. 
-* **LibDS** - when I became tired of endless saving one more must read book, I decided to organize a well sctructured data science library. It's just a repo right now but my plan is to launch a dedicated web application.
+* **LibDS** - curated list of Data Science books. It's just a repository right now but my plan is to launch a dedicated web application.
 * **AIgift** is a web service which can (or not :D ) help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but baught *aigift.io* domain :)
 
 ## Others
