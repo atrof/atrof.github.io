@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
 
 defaults:
   - 
@@ -7,12 +7,4 @@ defaults:
     values:
       permalink: "README.html"
       
-font:
-  enable: true
-
-  # Font settings for Logo
-  # Fallback to `global` font settings.
-  # The `size` option use `px` as unit
-  logo:
-    external: true
-    size: 50
+h1 {font-size: 50px;}
