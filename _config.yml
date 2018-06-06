@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 
-title: Data Science Portfolio by Artyom Trofimov
+title: Data Science Portfolio
+description: by Artyom Trofimov
 
 defaults:
   - 
