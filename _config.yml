@@ -6,5 +6,3 @@ defaults:
       path: "README.md"
     values:
       permalink: "README.html"
-      
-h1 {font-size: 50px;}
