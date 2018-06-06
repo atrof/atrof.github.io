@@ -22,11 +22,11 @@ This repository contents data analysis projects which I've been working on durin
 * **How good is your Medium article?** (59/398). In-class competition during ML Course Open by [ODS](http://www.ods.ai).
 
 ## Pet Projects
-* **TweetLikeTrump** is a web application which can measure the similarity between yours and Donald Trump's written text. 
+* **TweetLikeTrump** is a Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.
 
-* **LibDS** - curated list of Data Science books. It's a [repository](https://github.com/atrof/LibDS) and I\`m developing a "library-like" website using Django framework.
+* **LibDS** - curated list of Data Science books. It's a [repository](https://github.com/atrof/LibDS) and I\`m developing a "library-like" website using Django/Flask framework.
 
-* **AIgift** is a web service which can (or not :D ) help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but baught *aigift.io* domain :)
+* **AIgift** is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but AIgift is available online already in dev-mode: [aigift.pythonanywhere.com](http://aigift.pythonanywhere.com).
 
 ## Others
 * **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.
