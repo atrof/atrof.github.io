@@ -29,6 +29,6 @@ This repository contents data analysis projects which I've been working on durin
 * **AIgift** is a web service which can (or not :D ) help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but baught *aigift.io* domain :)
 
 ## Others
-* **3200tweets** is a simple Python script for grabbing tweets using Twitter API and Tweepy package.
+* **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.
 
-* **Dask: when Pandas fails** is an intro article about Dask (in Russian). 
+* **Dask: when Pandas fails** is an intro [article about Dask library](http://nbviewer.jupyter.org/github/atrof/mlcourse_open/blob/master/jupyter_russian/tutorials/dask_dataframe_avt.ipynb) (in Russian). 
