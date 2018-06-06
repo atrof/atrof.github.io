@@ -26,7 +26,7 @@ This repository contents data analysis projects which I've been working on durin
 
 * **LibDS** - curated list of Data Science books. It's a [repository](https://github.com/atrof/LibDS) and I\`m developing a "library-like" website using Django/Flask framework.
 
-* **AIgift** is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but AIgift is available online already in dev-mode: [aigift.pythonanywhere.com](http://aigift.pythonanywhere.com).
+* **AIgift** is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but [AIgift is available online](http://aigift.pythonanywhere.com) already in dev-mode.
 
 ## Others
 * **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.
