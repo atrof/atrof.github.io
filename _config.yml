@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
 
 title: Data Science Portfolio by Artyom Trofimov
 
@@ -8,7 +8,3 @@ defaults:
       path: "README.md"
     values:
       permalink: "README.html"
-
-h1 {
-    font-size: 50px;
-    }
