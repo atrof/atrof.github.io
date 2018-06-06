@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-dinky
 
 defaults:
   - 
@@ -6,3 +6,7 @@ defaults:
       path: "README.md"
     values:
       permalink: "README.html"
+
+h1 {
+    font-size: 50px;
+    }
