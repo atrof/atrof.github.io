@@ -15,4 +15,4 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    size: 50px
+    size: 50
