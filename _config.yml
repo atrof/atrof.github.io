@@ -1,5 +1,7 @@
 theme: jekyll-theme-dinky
 
+title: Data Science Portfolio by Artyom Trofimov
+
 defaults:
   - 
     scope:
