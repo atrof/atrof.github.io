@@ -22,7 +22,7 @@ This repository contents data analysis projects which I've been working on durin
 * **How good is your Medium article?** (59/398). In-class competition during ML Course Open by [ODS](http://www.ods.ai).
 
 ## Pet Projects
-* **TweetLikeTrump** is a Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.
+* **TweetLikeTrump** is a Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun. [Notebook with experiments](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/TweetLikeTrump.ipynb).
 
 * **LibDS** - curated list of Data Science books. It's a [repository](https://github.com/atrof/LibDS) and I\`m developing a "library-like" website using Django framework.
 
