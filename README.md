@@ -4,7 +4,9 @@ This repository contents data analysis projects which I've been working on durin
 
 ## Data Analysis
 
-* **The forecasting of an average wage in Russia** ([nbviewer](#))
+* **The forecasting of the average wage in Russia** ([nbviewer](#)). Time Series forecasting task.
+
+* **Tweet Like Trump** (in progress, [nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/TweetLikeTrump.ipynb)). Jupyter notebook with NLP experiments for [TweetLikeTrump](#) pet-project.
 
 * **Mobile Games AB-testing with Cookie Cats** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/AB-testing%20from%20the%20Cookie%20Cats.ipynb)). As players progress through the levels of the game, they will occasionally encounter gates that force them to wait or make an in-app purchase to progress. The target of this project is to decide where to place the gate looking at the impact on player retention.
 
@@ -24,7 +26,7 @@ This repository contents data analysis projects which I've been working on durin
 ## Pet Projects
 * **TweetLikeTrump** is a Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.
 
-* **LibDS** - curated list of Data Science books. It's a [repository](https://github.com/atrof/LibDS) and I\`m developing a "library-like" website using Django framework.
+* **LibDS** - curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) now and I\`m developing a "library-like" website using Django framework.
 
 * **AIgift** is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but [AIgift is available online](http://aigift.pythonanywhere.com) already in dev-mode.
 
