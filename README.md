@@ -6,13 +6,13 @@ This repository contents data analysis projects which I've been working on durin
 
 * **The forecasting of the average wage in Russia** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Wage_forecasting.ipynb)). Time Series forecasting task.
 
-* **Tweet Like Trump** (in progress, [nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/TweetLikeTrump.ipynb)). Jupyter notebook with NLP experiments for [TweetLikeTrump](#) pet-project.
-
 * **Mobile Games AB-testing with Cookie Cats** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/AB-testing%20from%20the%20Cookie%20Cats.ipynb)). As players progress through the levels of the game, they will occasionally encounter gates that force them to wait or make an in-app purchase to progress. The target of this project is to decide where to place the gate looking at the impact on player retention.
 
 * **Risk and Returns: The Sharpe Ratio** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Risk%20%26%20Returns%20with%20the%20Sharpe%20Ratio.ipynb)). Using `pandas` to calculate and compare profitability and risks of different investments using the Sharpe Ratio.
 
 * **Exploring the Bitcoin cryptocurrency market** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Exploring%20The%20Bitcoin%20Cryptocurrency%20Market.ipynb)). Exploring the market capitalization of Bitcoin and other cryptocurrencies.
+
+* **Tweet Like Trump** (in progress, [nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/TweetLikeTrump.ipynb)). Jupyter notebook with NLP experiments for [TweetLikeTrump](#) pet-project.
 
 ## Competitions
 * **Avito Demand Prediction Challenge** (in progress). Kaggle Featured Competition.
