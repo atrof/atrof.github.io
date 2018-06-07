@@ -4,7 +4,7 @@ This repository contents data analysis projects which I've been working on durin
 
 ## Data Analysis
 
-* **The forecasting of the average wage in Russia** ([nbviewer](#)). Time Series Forecasting task.
+* **The forecasting of the average wage in Russia** ([nbviewer](#)). Time Series forecasting task.
 
 * **Tweet Like Trump** (in progress, [nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/TweetLikeTrump.ipynb)). Jupyter notebook with NLP experiments for [TweetLikeTrump](#) pet-project.
 
