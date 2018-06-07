@@ -6,7 +6,7 @@ This repository contents data analysis projects which I've been working on durin
 
 * **The forecasting of the average wage in Russia** ([nbviewer](#))
 
-* **Tweet Like Trump** (in progress, [nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/TweetLikeTrump.ipynb)). Jupyter notebook with NLP experiments for [TweetLikeTrump pet-project](#).
+* **Tweet Like Trump** (in progress, [nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/TweetLikeTrump.ipynb)). Jupyter notebook with NLP experiments for [TweetLikeTrump](#) pet-project.
 
 * **Mobile Games AB-testing with Cookie Cats** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/AB-testing%20from%20the%20Cookie%20Cats.ipynb)). As players progress through the levels of the game, they will occasionally encounter gates that force them to wait or make an in-app purchase to progress. The target of this project is to decide where to place the gate looking at the impact on player retention.
 
