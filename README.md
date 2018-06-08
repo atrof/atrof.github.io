@@ -24,13 +24,12 @@ This repository contents data analysis projects which I've been working on durin
 * **How good is your Medium article?** (59/398). In-class competition during ML Course Open by [ODS](http://www.ods.ai).
 
 ## Pet Projects
-* **TweetLikeTrump** is a Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.
+* **TweetLikeTrump** - Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.
 
-* **LibDS** - curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) now and I\`m developing a "library-like" website using Django framework.
+* **LibDS** (in progress) is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) now and I\`m developing a "library-like" website using Django framework.
 
-* **AIgift** is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but [AIgift is available online](http://aigift.pythonanywhere.com) already in dev-mode.
+* **AIgift** (in progress) is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but [AIgift is available online](http://aigift.pythonanywhere.com) already in dev-mode.
 
 ## Others
 * **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.
-
 * **Dask: when Pandas fails** is an intro [article about Dask library](http://nbviewer.jupyter.org/github/atrof/mlcourse_open/blob/master/jupyter_russian/tutorials/dask_dataframe_avt.ipynb) (in Russian). 
