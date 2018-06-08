@@ -1,6 +1,6 @@
 ## Summary
 
-This repository contents data analysis projects which I've been working on during my study and exploration in the Data Science field. All the projects are created in Python using Jupyter Notebooks. Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
+This repository contents my skill-set, list of courses and data analysis projects which I've been working on during my study and exploration in the Data Science field. All the projects are created in Python using Jupyter Notebooks. Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
 
 ## Skills
 
