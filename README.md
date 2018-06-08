@@ -35,3 +35,7 @@ My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of comtetions](
 ## Others
 * **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.
 * **Dask: when Pandas fails** is an intro [article about Dask library](http://nbviewer.jupyter.org/github/atrof/mlcourse_open/blob/master/jupyter_russian/tutorials/dask_dataframe_avt.ipynb) (in Russian). 
+
+## Contact Me
+* **E-mail:** [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
+* **LinkedIn** [profile](https://www.linkedin.com/in/artyomtrofimov)
