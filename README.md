@@ -17,13 +17,13 @@ This repository contents data analysis projects which I've been working on durin
 ## Competitions
 My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of comtetions](https://www.kaggle.com/avtrrr/competitions). 
 
-* **Avito Demand Prediction Challenge** (in progress). Kaggle Featured Competition aimed at predicting demand for an online advertisement based on its description, its context and historical demand for similar ads in similar contexts. 
+* **Avito Demand Prediction Challenge** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/avito-demand-prediction) aimed at predicting demand for an online advertisement based on its description, its context and historical demand for similar ads in similar contexts. 
 
-* **Home Credit Deafault Risk** (in progress). Kaggle Featured Competition. The goal of this challenge is to predict how capable each applicant is of repaying a loan.
+* **Home Credit Deafault Risk** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/home-credit-default-risk). The goal of this challenge is to predict how capable each applicant is of repaying a loan.
 
-* **Catch me if you can: Intruder Detection** (Top 21%, 244/1163). In-class competition during ML Course Open by [ODS](http://www.ods.ai). The goal is to identify a user on the Internet tracking his/her sequence of attended web pages and predict whether it belongs to the specific user (Alice) or somebody else.
+* **Catch me if you can: Intruder Detection** (Top 21%, 244/1163). [In-class competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) during ML Course Open by [ODS](http://www.ods.ai). The goal is to identify a user on the Internet tracking his/her sequence of attended web pages and predict whether it belongs to the specific user (Alice) or somebody else.
 
-* **How good is your Medium article?** (Top 15%, 59/398). In-class competition during ML Course Open by [ODS](http://www.ods.ai). The task was to predict the number of "claps" (some like recommendations) for an article published on Medium.
+* **How good is your Medium article?** (Top 15%, 59/398). [In-class competition](https://www.kaggle.com/c/how-good-is-your-medium-article) during ML Course Open by [ODS](http://www.ods.ai). The task was to predict the number of "claps" (some like recommendations) for an article published on Medium.
 
 ## Pet Projects
 * **TweetLikeTrump** - Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.
