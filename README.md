@@ -4,7 +4,7 @@ This repository contents data analysis projects which I've been working on durin
 
 ## Skills
 
-* **Machine Learning:** Regression, Classification, Clustering, Decision Trees, Time Series analysis, Anomaly Detection, Natural Language Processing
+* **Machine Learning:** Regression, Classification, Clustering, Time Series analysis, Anomaly Detection, NLP
 * **PyData Stack:** Pandas, NumPy, scikit-learn, XGBoost, LightGBM, matplotlib
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap, SQL
 * **Tools:** Git, Jupyter Notebooks, Cloud Services (AWS, DO), Slack
