@@ -26,7 +26,7 @@ My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of comtetions](
 * **How good is your Medium article?** (Top 15%, 59/398). [In-class competition](https://www.kaggle.com/c/how-good-is-your-medium-article) during ML Course Open by [ODS](http://www.ods.ai). The task was to predict the number of "claps" (some like recommendations) for an article published on Medium.
 
 ## Pet Projects
-* **TweetLikeTrump** - Flask-based web application which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.
+* **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](#) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
 
 * **LibDS** (in progress) is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) now and I\`m developing a "library-like" website using Django framework.
 
