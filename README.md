@@ -9,6 +9,13 @@ This repository contents data analysis projects which I've been working on durin
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap, SQL
 * **Tools:** Git, Jupyter Notebooks, Cloud Services (AWS, DO), Slack
 
+## Courses
+
+* **Machine Learning and Data Analysis**. Specialization (6 courses) by MIPT & Yandex @Coursera
+* **Executive Data Science**. Specialization (5 courses) by Johns Hopkins University @Coursera ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
+* **Structuring Machine Learning Projects**. Course by deeplearning.ai @Coursera ([certificate](https://www.coursera.org/account/accomplishments/certificate/DA9B4MFS93C8))
+* **Data Scientist with Python**. Career Track (20 courses) by DataCamp ([certificate](https://www.datacamp.com/statement-of-accomplishment/track/9de67b7f33cb32417f6e2bb3e2b246e9015c84e4))
+
 ## Data Analysis Projects
 
 * **The forecasting of the average wage in Russia** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Wage_forecasting.ipynb)). Time Series analysis task.
