@@ -11,10 +11,10 @@ This repository contents data analysis projects which I've been working on durin
 
 ## Courses
 
-* **Machine Learning and Data Analysis**. Specialization by MIPT & Yandex @Coursera
+* **Machine Learning and Data Analysis**. Specialization by MIPT & Yandex
 * **Data Analyst with Python**. Career Track by DataCamp ([certificate](https://www.datacamp.com/statement-of-accomplishment/track/20e14e04a89b3688e16381525dc14a557b14f3a2))
-* **Executive Data Science**. Specialization by Johns Hopkins University @Coursera ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
-* **Structuring Machine Learning Projects**. Course by deeplearning.ai @Coursera ([certificate](https://www.coursera.org/account/accomplishments/certificate/DA9B4MFS93C8))
+* **Executive Data Science**. Specialization by Johns Hopkins University ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
+* **Structuring Machine Learning Projects**. Course by deeplearning.ai ([certificate](https://www.coursera.org/account/accomplishments/certificate/DA9B4MFS93C8))
 
 ## Data Analysis Projects
 
