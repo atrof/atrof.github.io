@@ -9,7 +9,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap, SQL
 * **Tools:** Git, Jupyter Notebooks, Cloud Services (AWS, DO), Slack
 
-## Courses
+## Relevant Courses
 
 ### Machine Learning
 * **Machine Learning and Data Analysis** (in progress). Specialization by MIPT & Yandex
