@@ -9,14 +9,12 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap, SQL
 * **Tools:** Git, Jupyter Notebooks, Cloud Services (AWS, DO), Slack
 
-## Relevant Courses
-
-### Machine Learning
+### Machine Learning Courses
 * **Machine Learning and Data Analysis** (in progress). Specialization by MIPT & Yandex
 * **ML Course Open**. Course by [ODS](http://www.ods.ai). Rated 26th of 1800+ participants ([rating](https://github.com/Yorko/mlcourse_open/wiki/Session-3-final-rating-(in-Russian)))
 * **Data Analyst with Python**. Career Track by DataCamp ([certificate](https://www.datacamp.com/statement-of-accomplishment/track/20e14e04a89b3688e16381525dc14a557b14f3a2))
 
-### Machile Learning Project Management
+### ML Projects Management Courses
 * **Executive Data Science**. Specialization by Johns Hopkins University ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
 * **Structuring Machine Learning Projects**. Course by deeplearning.ai ([certificate](https://www.coursera.org/account/accomplishments/certificate/DA9B4MFS93C8))
 
