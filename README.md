@@ -44,9 +44,8 @@ My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of competitions
 ## Pet-Projects
 * **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](https://tweetliketrump.herokuapp.com/) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
 
-* **AIgift** (in progress) is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but [AIgift is available online](http://aigift.pythonanywhere.com) already in dev-mode.
+* **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.
 
 ## Others
 * **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.
 * **Dask: when Pandas fails** is an intro [article about Dask library](http://nbviewer.jupyter.org/github/atrof/mlcourse_open/blob/master/jupyter_russian/tutorials/dask_dataframe_avt.ipynb) (in Russian). 
-* **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.
