@@ -42,7 +42,7 @@ My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of competitions
 * **How good is your Medium article?** (Top 15%, 59/398). [In-class competition](https://www.kaggle.com/c/how-good-is-your-medium-article) during ML Course Open by [ODS](http://www.ods.ai). The task was to predict the number of "claps" (some like recommendations) for an article published on Medium.
 
 ## Pet-Projects
-* **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](#) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
+* **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](https://tweetliketrump.herokuapp.com/) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
 
 * **AIgift** (in progress) is a Django-based web application which can help you to choose the most suitable gift for your friend on the basis of his/her public data. Just in the very beginning but [AIgift is available online](http://aigift.pythonanywhere.com) already in dev-mode.
 
