@@ -2,11 +2,6 @@
 
 Portfolio contents my skill-set, list of courses and data analysis projects which I've been working on during my study and exploration in the Data Science field. All the projects are created in Python using Jupyter Notebooks. Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
 
-## Pet-Projects
-* **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](https://tweetliketrump.herokuapp.com/) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
-
-* **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.
-
 ## Skills
 
 * **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series analysis
@@ -22,6 +17,11 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 ### ML Projects Management Courses
 * **Executive Data Science**. Specialization by Johns Hopkins University ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
 * **Structuring Machine Learning Projects**. Course by deeplearning.ai ([certificate](https://www.coursera.org/account/accomplishments/certificate/DA9B4MFS93C8))
+
+## Pet Projects
+* **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](https://tweetliketrump.herokuapp.com/) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
+
+* **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.
 
 ## Data Analysis Projects
 
