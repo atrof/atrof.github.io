@@ -23,7 +23,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 
 * **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.
 
-## Data Analysis Projects
+## Data Analysis
 
 * **The forecasting of the average wage in Russia** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Wage_forecasting.ipynb)). Time Series analysis task.
 
