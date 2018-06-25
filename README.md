@@ -2,6 +2,11 @@
 
 Portfolio contents my skill-set, list of courses and data analysis projects which I've been working on during my study and exploration in the Data Science field. All the projects are created in Python using Jupyter Notebooks. Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
 
+## Pet-Projects
+* **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](https://tweetliketrump.herokuapp.com/) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
+
+* **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.
+
 ## Skills
 
 * **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series analysis
@@ -43,10 +48,6 @@ My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of competitions
 
 * **How good is your Medium article?** (Top 15%, 59/398). [In-class competition](https://www.kaggle.com/c/how-good-is-your-medium-article) during ML Course Open by [ODS](http://www.ods.ai). The task was to predict the number of "claps" (some like recommendations) for an article published on Medium.
 
-## Pet-Projects
-* **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](https://tweetliketrump.herokuapp.com/) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments. 
-
-* **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.
 
 ## Others
 * **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.
