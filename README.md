@@ -33,9 +33,11 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 ## Competitions
 My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of competitions](https://www.kaggle.com/avtrrr/competitions). 
 
-* **Avito Demand Prediction Challenge** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/avito-demand-prediction) aimed at predicting demand for an online advertisement based on its description, its context and historical demand for similar ads in similar contexts. 
+* **Santander Value Prediction Challenge** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/santander-value-prediction-challenge). Predicting the value of transactions for potential customers. 
 
 * **Home Credit Deafault Risk** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/home-credit-default-risk). The goal of this challenge is to predict how capable each applicant is of repaying a loan.
+
+* **Avito Demand Prediction Challenge** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/avito-demand-prediction) aimed at predicting demand for an online advertisement based on its description, its context and historical demand for similar ads in similar contexts.
 
 * **Catch me if you can: Intruder Detection** (Top 21%, 244/1163). [In-class competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) during ML Course Open by [ODS](http://www.ods.ai). The goal is to identify a user on the Internet tracking his/her sequence of attended web pages and predict whether it belongs to the specific user (Alice) or somebody else.
 
