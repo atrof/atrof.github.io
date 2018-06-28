@@ -42,7 +42,7 @@ My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of competitions
 
 * **Home Credit Deafault Risk** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/home-credit-default-risk). The goal of this challenge is to predict how capable each applicant is of repaying a loan.
 
-* **Avito Demand Prediction Challenge** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/avito-demand-prediction) aimed at predicting demand for an online advertisement based on its description, its context and historical demand for similar ads in similar contexts.
+* **Avito Demand Prediction Challenge** (Top 28%, 534/1917). [Kaggle Featured Competition](https://www.kaggle.com/c/avito-demand-prediction) aimed at predicting demand for an online advertisement based on its description, its context and historical demand for similar ads in similar contexts. Just tried a Kaggle Trick with blending public kernels' submissions.
 
 * **Catch me if you can: Intruder Detection** (Top 21%, 244/1163). [In-class competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) during ML Course Open by [ODS](http://www.ods.ai). The goal is to identify a user on the Internet tracking his/her sequence of attended web pages and predict whether it belongs to the specific user (Alice) or somebody else.
 
