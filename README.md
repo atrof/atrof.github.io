@@ -5,7 +5,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 ## Skills
 
 * **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series analysis
-* **PyData Stack:** Pandas, NumPy, scikit-learn, XGBoost, LightGBM, matplotlib
+* **PyData Stack:** Pandas, NumPy, scikit-learn, XGBoost, LightGBM, matplotlib, seaborn
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap, SQL
 * **Tools:** Git, Jupyter Notebooks, Cloud Services (AWS, DO), Slack
 
@@ -44,20 +44,14 @@ _#Python #NLP #CosineSimilarity #OneClassSVM #word2vec_
 ## Competitions
 My Kaggle [profile](https://www.kaggle.com/avtrrr) and the [list of competitions](https://www.kaggle.com/avtrrr/competitions).
 
-* **Santander Value Prediction Challenge** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/santander-value-prediction-challenge). Predicting the value of transactions for potential customers.<br>
-_#Python #Regression #LightGBM #XGBoost #RMSLE_
+* **How good is your Medium article?** (Top 15%, 59/398). [In-class competition](https://www.kaggle.com/c/how-good-is-your-medium-article) during ML Course Open by [ODS](http://www.ods.ai). The task was to predict the number of "claps" (some like recommendations) for an article published on Medium.<br>
+_#Python #Regression #NLP #Ridge #BeautifulSoup #MAE_
 
-* **Home Credit Deafault Risk** (in progress). [Kaggle Featured Competition](https://www.kaggle.com/c/home-credit-default-risk). The goal of this challenge is to predict how capable each applicant is of repaying a loan.<br>
-_#Python #Classification #LightGBM #ROC-AUC_
+* **Catch me if you can: Intruder Detection** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Catch%20Me%20If%20You%20Can/AVT_Catch%20Me%20If%20You%20Can.ipynb), Top 21%, 244/1163). [In-class competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) during _Machine Learning & Data Analysis Specialization @Courseta by MIPT & Yandex_. The goal is to identify a user on the Internet tracking his/her sequence of attended web pages and predict whether it belongs to the specific user (Alice) or somebody else.<br>
+_#Python #Classification #LogisticRegression #TF-IDF #ROC-AUC_
 
 * **Avito Demand Prediction Challenge** (Top 28%, 534/1917). [Kaggle Featured Competition](https://www.kaggle.com/c/avito-demand-prediction) aimed at predicting demand for an online advertisement based on its description, context and historical demand for similar ads in similar contexts. Just tried a Kaggle Trick with blending public kernels' submissions.<br>
 _#Python #Regression #Blending #RMSE_
-
-* **Catch me if you can: Intruder Detection** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Catch%20Me%20If%20You%20Can/AVT_Catch%20Me%20If%20You%20Can.ipynb), Top 21%, 244/1163). [In-class competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) during ML Course Open by [ODS](http://www.ods.ai). The goal is to identify a user on the Internet tracking his/her sequence of attended web pages and predict whether it belongs to the specific user (Alice) or somebody else.<br>
-_#Python #Classification #LogisticRegression #TF-IDF #ROC-AUC_
-
-* **How good is your Medium article?** (Top 15%, 59/398). [In-class competition](https://www.kaggle.com/c/how-good-is-your-medium-article) during ML Course Open by [ODS](http://www.ods.ai). The task was to predict the number of "claps" (some like recommendations) for an article published on Medium.<br>
-_#Python #Regression #NLP #Ridge #BeautifulSoup #MAE_
 
 
 ## Others
