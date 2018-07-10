@@ -1,8 +1,8 @@
-## Summary
+## PROFILE
 
 Portfolio contents my skill-set, list of courses and data analysis projects which I've been working on during my study and exploration in the Data Science field. All the projects are created in Python using Jupyter Notebooks. Feel free to contact me and have a talk about interesting collaboration, new opportunities, or if you have any questions: [avtrrr@gmail.com](mailto:avtrrr@gmail.com)
 
-## Skills
+## SKILLS
 
 * **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series analysis
 * **PyData Stack:** Pandas, NumPy, scikit-learn, XGBoost, LightGBM, matplotlib, seaborn
@@ -18,14 +18,14 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **Executive Data Science**. Specialization by Johns Hopkins University ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
 * **Structuring Machine Learning Projects**. Course by deeplearning.ai ([certificate](https://www.coursera.org/account/accomplishments/certificate/DA9B4MFS93C8))
 
-## Pet Projects
+## PET PROJECTS
 * **TweetLikeTrump** (in progress, [repository](https://github.com/atrof/TweetLikeTrump)) - Flask-based [web application](https://tweetliketrump.herokuapp.com/) which can measure the similarity between yours and Donald Trump's written text. Just for fun and NLP experiments.<br>
 _#Python #NLP #Flask #ProjectManagement_
 
 * **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.<br>
 _#Python #Django #DataScienceBooks #ProjectManagement_
 
-## Data Analysis
+## DATA ANALYSIS
 
 * **Catch me if you can: Intruder Detection** ([nbviewer](http://nbviewer.jupyter.org/github/atrof/atrof.github.io/blob/master/Notebooks/Catch%20Me%20If%20You%20Can/AVT_Catch%20Me%20If%20You%20Can.ipynb)). Capstone Project and [in-class competition](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) during _Machine Learning & Data Analysis Specialization @Coursera by MIPT & Yandex_. The goal is to identify a user on the Internet tracking his/her sequence of attended web pages and predict whether it belongs to the specific user (Alice) or somebody else.<br>
 _#Python #Classification #LogisticRegression #TF-IDF #ROC-AUC_
@@ -46,7 +46,7 @@ _#Python #pandas #DataAnalysis_
 _#Python #DataAnalysis #DataVisualization_
 
 
-## Others
+## OTHERS
 
 * **3200tweets** is a simple Python [script for grabbing tweets](https://github.com/atrof/3200tweets) using Twitter API and Tweepy package.<br>
 _#Python #DataCollection #WebScraping #TwitterAPI #Tweepy_
