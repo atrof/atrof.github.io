@@ -15,7 +15,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **Data Analyst with Python**. Career Track by DataCamp ([certificate](https://www.datacamp.com/statement-of-accomplishment/track/20e14e04a89b3688e16381525dc14a557b14f3a2))
 
 #### ML Project Management Courses
-* **Executive Data Science**. Specialization by Johns Hopkins University ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
+* **Executive Data Science**. [Specialization](https://www.coursera.org/specializations/executive-data-science) (5 courses) by Johns Hopkins University ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
 * **Structuring Machine Learning Projects**. Course by deeplearning.ai ([certificate](https://www.coursera.org/account/accomplishments/certificate/DA9B4MFS93C8))
 
 ## PET PROJECTS
