@@ -11,7 +11,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 
 #### Machine Learning Courses
 * **Machine Learning and Data Analysis**. [Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis) (6 courses) by MIPT & Yandex ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BD4HQNMRL4AM))
-* **ML Course Open**. Course by [ODS](http://www.ods.ai). Rated 26th of 1800+ participants ([rating](https://github.com/Yorko/mlcourse_open/wiki/Session-3-final-rating-(in-Russian)))
+* **ML Course Open** by [OpenDataScience](http://www.ods.ai). Rated 26th of 1800+ participants ([rating](https://github.com/Yorko/mlcourse_open/wiki/Session-3-final-rating-(in-Russian)))
 * **Data Analyst with Python**. Career Track by DataCamp ([certificate](https://www.datacamp.com/statement-of-accomplishment/track/20e14e04a89b3688e16381525dc14a557b14f3a2))
 
 #### ML Project Management Courses
