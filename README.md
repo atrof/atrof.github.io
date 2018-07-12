@@ -23,7 +23,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 _#Python #NLP #Flask #ProjectManagement_
 
 * **LibDS** is a curated list of Data Science books. It's just a [repository](https://github.com/atrof/LibDS) but I develop a "library-like" website using Django framework.<br>
-_#Python #Django #DataScienceBooks #ProjectManagement_
+_#Python #Django #ProjectManagement_
 
 ## DATA ANALYSIS
 
