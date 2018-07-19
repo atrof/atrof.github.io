@@ -8,6 +8,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **PyData Stack:** Pandas, NumPy, scikit-learn, XGBoost, LightGBM, matplotlib, seaborn
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap, SQL
 * **Tools:** Git, Jupyter Notebooks, Cloud Services (AWS, DO), Slack
+* **Project Management:** CRISP-DM
 
 #### Machine Learning Courses
 * **Machine Learning and Data Analysis**. [Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis) (6 courses) by MIPT & Yandex ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BD4HQNMRL4AM))
