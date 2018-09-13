@@ -9,7 +9,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **Big Data:** SQL, Hadoop Impala, Hue
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap
 * **Tools:** Git, Jupyter, Atom, PyCharm, AWS, Digital Ocean, Slack, Jira, Tableue
-* **OS:** Linux (Ubuntu), Windows, maxOS
+* **OS:** Linux (Ubuntu), Windows, macOS
 * **Project Management:** CRISP-DM
 
 #### Machine Learning Courses
