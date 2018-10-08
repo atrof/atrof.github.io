@@ -4,11 +4,14 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 
 ## SKILLS
 
-* **Python:** pandas, NumPy, scikit-learn (sklearn), matplotlib, seaborn, XGBoost, nltk
-* **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series analysis
-* **Big Data:** SQL, Hadoop Impala, Hue
+* **Python:** pandas, NumPy, scikit-learn (sklearn), Dask, XGBoost, nltk, sqlalchemy
+* **Data Visualization:** matplotlib, seaborn, plotly, Bokeh
+* **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series Analysis
+* **Big Data:** Hadoop, Impala, Hive, Hue, Kafka, Redash, JSON
+* **Databases:** MySQL, SQLite, PostgreSQL, ClickHouse
+* **BI:** PowerBI, Tableau
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap
-* **Tools:** Git, Jupyter, Atom, PyCharm, AWS, Digital Ocean, Slack, Jira, Tableue
+* **Tools:** Git, Jupyter, Atom, PyCharm, AWS, Digital Ocean, Slack, Jira, Confluence, Trello
 * **OS:** Linux (Ubuntu), Windows, macOS
 * **Project Management:** CRISP-DM
 
