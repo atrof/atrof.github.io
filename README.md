@@ -9,7 +9,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series Analysis
 * **Big Data:** Hadoop, Impala, Hive, Hue, Kafka, Redash, JSON
 * **Databases:** MySQL, SQLite, PostgreSQL, ClickHouse
-* **BI:** Redash, PowerBI, Tableau
+* **BI:** Redash, Google Data Studio, PowerBI
 * **Technologies:** Python, Django, Flask, HTML,	CSS,	Bootstrap
 * **Tools:** Git, Jupyter, Atom, PyCharm, AWS, Digital Ocean, Slack, Jira, Confluence, Trello
 * **OS:** Linux (Ubuntu), Windows, macOS
