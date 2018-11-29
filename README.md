@@ -4,7 +4,9 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 
 ## SKILLS
 
-* **Programming Languages:** **Python** (pandas, NumPy, scikit-learn (sklearn), Dask, XGBoost, nltk, sqlalchemy), **R** (basics - BSDA, lawstat)
+* **Programming Languages:** 
+  * **Python** - pandas, NumPy, scikit-learn (sklearn), Dask, XGBoost, LightGBM, nltk, sqlalchemy
+  * **R** basics - BSDA, lawstat
 * **Data Visualization:** matplotlib, seaborn, plotly, Bokeh, ggplot
 * **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series Analysis
 * **Big Data:** Hadoop, Impala, Hive, Hue, Kafka, Redash
@@ -20,6 +22,7 @@ Portfolio contents my skill-set, list of courses and data analysis projects whic
 * **Machine Learning and Data Analysis**. [Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis) (6 courses) by MIPT & Yandex ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BD4HQNMRL4AM))
 * **ML Course Open** by [OpenDataScience](http://www.ods.ai). Rated 26th of 1800+ participants ([rating](https://github.com/Yorko/mlcourse_open/wiki/Session-3-final-rating-(in-Russian)))
 * **Data Analyst with Python**. Career Track by DataCamp ([certificate](https://www.datacamp.com/statement-of-accomplishment/track/20e14e04a89b3688e16381525dc14a557b14f3a2))
+* **A/B-testing**. Intense Course by [aic.academy](https://academy.aic.ru/course/analytics/)
 
 #### Machine Learning Project Management Courses
 * **Executive Data Science**. [Specialization](https://www.coursera.org/specializations/executive-data-science) (5 courses) by Johns Hopkins University ([certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GVBSM9PWRLJ6))
